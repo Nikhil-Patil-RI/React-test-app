@@ -18,7 +18,7 @@ function App() {
           Learn React Now With Official Documents...
         </a>
         <p>This Project is developed by Nikhil for testing purpose..</p>
-        <p>My Name is Mahi</p>
+        <p>My Name is Nikhil</p>
       </header>
     </div>
   );
